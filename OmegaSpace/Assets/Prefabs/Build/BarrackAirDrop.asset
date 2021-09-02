@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e417d3563bfa71489ccba550ac8f30d, type: 3}
+  m_Name: BarrackAirDrop
+  m_EditorClassIdentifier: 
+  buildingPrefab: {fileID: 4786316986509820018, guid: 9e72b17456da5d44cb442b475d7d107f,
+    type: 3}
+  meshesWhileConstructing: []
+  ironCost:
+    resType: 1
+    resAmount: 0
+  goldCost:
+    resType: 2
+    resAmount: 0
+  buildTime: 1
+  gridScale: {x: 0, y: 0}
+  buildableAreaExtent: {x: 0, y: 0}

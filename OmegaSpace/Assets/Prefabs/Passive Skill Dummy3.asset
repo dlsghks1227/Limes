@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b4daab40a21f5c45812c733c91673d3, type: 3}
+  m_Name: Passive Skill Dummy3
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: cc4f6f57505bd4f4c9e2d272066aef20, type: 3}
+  skillName: enemy down
+  skillDescribe: 
+  cost:
+    resType: 3
+    resAmount: 0

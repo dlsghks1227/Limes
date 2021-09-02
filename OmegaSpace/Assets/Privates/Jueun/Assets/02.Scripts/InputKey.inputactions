@@ -1,0 +1,52 @@
+{
+    "name": "InputKey",
+    "maps": [
+        {
+            "name": "inputKey",
+            "id": "30bd61ab-b5e0-4364-8923-d92b567d66f0",
+            "actions": [
+                {
+                    "name": "tab",
+                    "type": "Button",
+                    "id": "401f4704-8bc7-4ba5-babb-752e2d19b8c6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "keyB",
+                    "type": "Button",
+                    "id": "48a5c88d-23f4-43ed-b0f9-07d19fb3e837",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2f005794-6938-458d-b4b6-dbafc92896c9",
+                    "path": "<Keyboard>/tab",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "tab",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c901a1a7-84f9-4a74-9081-7f0b5e129090",
+                    "path": "<Keyboard>/b",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "keyB",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

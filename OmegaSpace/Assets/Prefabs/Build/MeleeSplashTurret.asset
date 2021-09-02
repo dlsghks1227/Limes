@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e417d3563bfa71489ccba550ac8f30d, type: 3}
+  m_Name: MeleeSplashTurret
+  m_EditorClassIdentifier: 
+  buildingPrefab: {fileID: 5972356002433781170, guid: 96e47a942d51d1248a1796f93de333b0,
+    type: 3}
+  buildingName: "\uADFC\uC811 \uD3EC\uD0D1"
+  explain: "\uADFC\uC811 \uBC94\uC704 \uACF5\uACA9\uC744 \uD558\uB294 \uD3EC\uD0D1"
+  meshesWhileConstructing: []
+  ironCost:
+    resType: 1
+    resAmount: 150
+  goldCost:
+    resType: 2
+    resAmount: 0
+  buildTime: 5
+  gridScale: {x: 2, y: 2}
+  buildableAreaExtent: {x: 0, y: 0}

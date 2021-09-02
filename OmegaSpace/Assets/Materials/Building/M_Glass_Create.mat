@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Glass_Create
+  m_Shader: {fileID: -6465566751694194690, guid: f86452adbe744da499cc2ef5375e2b6d,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_72E315F3:
+        m_Texture: {fileID: 2800000, guid: d265d22d55e082e46b05e0db4053d457, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Time: 0
+    - Vector1_2E805B80: 0
+    - Vector1_47FC8DB0: 0
+    - Vector1_6779E32F: 0.6
+    - Vector1_829E3F1F: 5
+    - Vector1_A71A4587: 5
+    - Vector1_CA46E66E: 0.6
+    - Vector1_CA873835: 90
+    m_Colors:
+    - Color_3C25F168: {r: 0.735849, g: 0.661271, b: 0.41998926, a: 0}
+    - Vector2_831D7EF9: {r: 3, g: 3, b: 0, a: 0}

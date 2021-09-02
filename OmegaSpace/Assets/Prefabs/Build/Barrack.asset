@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e417d3563bfa71489ccba550ac8f30d, type: 3}
+  m_Name: Barrack
+  m_EditorClassIdentifier: 
+  buildingPrefab: {fileID: 6392623328232611358, guid: d6ba95d9995fe1b468c71600c6c05696,
+    type: 3}
+  buildingName: "\uBCD1\uC601"
+  explain: "\uC720\uB2DB\uB4E4\uC744 \uC0DD\uC0B0\uD558\uB294 \uAC74\uBB3C"
+  meshesWhileConstructing: []
+  ironCost:
+    resType: 1
+    resAmount: 150
+  goldCost:
+    resType: 2
+    resAmount: 0
+  buildTime: 5
+  gridScale: {x: 3, y: 3}
+  buildableAreaExtent: {x: 0, y: 0}

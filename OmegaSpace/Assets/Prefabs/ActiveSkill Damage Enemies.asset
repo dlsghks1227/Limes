@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89b27bfabed3eb741b3fe62a9d547640, type: 3}
+  m_Name: ActiveSkill Damage Enemies
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 403988e046d5ced42bcabc8d0cafaa87, type: 3}
+  skillName: Bomb Enemies
+  skillDescribe: Bomb Enemies
+  coolTime: 5
+  isMouseActiveSkill: 1
+  isUsed: 0
+  cost:
+    resType: 3
+    resAmount: 300
+  particle:
+    particlePrefabs:
+    - {fileID: 156506, guid: 8cd1104783594d040862e4173af2522a, type: 3}

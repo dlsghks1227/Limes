@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75423256acd36e148b017055921c0fd6, type: 3}
+  m_Name: Active Skill Slowen Enemies
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 7dd9123b0beb10f48bf6fe308bbe62fe, type: 3}
+  skillName: Slow
+  skillDescribe: Slow Enemies
+  coolTime: 2
+  isMouseActiveSkill: 1
+  isUsed: 0
+  cost:
+    resType: 3
+    resAmount: 100
+  particle:
+    particlePrefabs:
+    - {fileID: 163640, guid: be4058b04abc8fe4ca81c721c18ecb4f, type: 3}
+
+
+  slowRatio: -1
+

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e417d3563bfa71489ccba550ac8f30d, type: 3}
+  m_Name: Barricade
+  m_EditorClassIdentifier: 
+  buildingPrefab: {fileID: 5481676307477415653, guid: d14b049d7593948469167acb894406aa,
+    type: 3}
+  buildingName: "\uC7A5\uBCBD\uBCBD"
+  explain: "\uC801\uC758 \uD22C\uC0AC\uCCB4 \uACF5\uACA9\uC744 \uB9C9\uC544\uC900\uB2E4."
+  meshesWhileConstructing: []
+  ironCost:
+    resType: 1
+    resAmount: 20
+  goldCost:
+    resType: 2
+    resAmount: 0
+  buildTime: 2
+  gridScale: {x: 1, y: 1}
+  buildableAreaExtent: {x: 0, y: 0}

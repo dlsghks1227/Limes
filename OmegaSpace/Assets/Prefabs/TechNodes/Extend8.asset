@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da655f6736e56234ea8ce199f630c122, type: 3}
+  m_Name: Extend8
+  m_EditorClassIdentifier: 
+  researchList: []
+  trait: 0
+  techName: 
+  ironCost:
+    resType: 1
+    resAmount: 0
+  goldCost:
+    resType: 2
+    resAmount: 0
+  isAchieved: 0
+  researchTime: 0
+  requireNodes:
+  - {fileID: 11400000, guid: a4f93885a190b694285932c11f416798, type: 2}
+  descendantNodes: []
